@@ -8,32 +8,32 @@ Understanding the concept of scope and how functions work with parameters, argum
 
 Whether creating algorithms, designing programs, or delving into the complexities of software development, grasping these programming fundamentals will empower students to write code that is both functional and efficient. So let's dive into this list and discover the key terminology that will pave the way to becoming proficient developers. 🚀🌟
 
-23. **A Program:**
+60. **A Program**:
    - Definition: A set of instructions written in a programming language to perform a specific task or solve a problem.
    - Example (JavaScript): 
      ```javascript
      console.log("Hello, world!");
      ```
 
-24. **Algorithm:**
+61. **Algorithm**:
    - Definition: A step-by-step procedure or set of rules used to solve a particular problem or accomplish a specific task.
    - Example: A sorting algorithm like Bubble Sort or Merge Sort.
 
-25. **Variables:**
+62. **Variables**:
    - Definition: Containers that hold data values and can change their values during the program's execution.
    - Example (JavaScript):
      ```javascript
      let age = 25;
      ```
 
-26. **Constants:**
+63. **Constants**:
    - Definition: Similar to variables but with a fixed value that cannot be changed after initialization.
    - Example (JavaScript):
      ```javascript
      const PI = 3.14159;
      ```
 
-27. **Data Types:**
+64. **Data Types**:
    - Definition: The classification of data in a programming language, determining the type of values a variable can hold.
    - Example (JavaScript):
      ```javascript
@@ -42,7 +42,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
      let isStudent = true; // Boolean data type
      ```
 
-28. **Functions:**
+65. **Functions**:
    - Definition: Blocks of reusable code designed to perform a specific task or calculation.
    - Example (JavaScript):
      ```javascript
@@ -51,7 +51,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
      }
      ```
 
-29. **Loops:**
+66. **Loops**:
    - Definition: Control structures used to execute a block of code repeatedly until a specified condition is met.
    - Example (JavaScript):
      ```javascript
@@ -60,7 +60,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
      }
      ```
 
-30. **Conditionals:**
+67. **Conditionals**:
    - Definition: Control structures used to make decisions in the code based on specified conditions.
    - Example (JavaScript):
      ```javascript
@@ -72,49 +72,49 @@ Whether creating algorithms, designing programs, or delving into the complexitie
      }
      ```
 
-31. **Arrays:**
+68. **Arrays**:
     - Definition: Data structures that hold a collection of elements, each identified by an index or key.
     - Example (JavaScript):
       ```javascript
       let numbers = [1, 2, 3, 4, 5];
       ```
 
-32. **Strings:**
+69. **Strings**:
     - Definition: A sequence of characters used to represent text data.
     - Example (JavaScript):
       ```javascript
       let message = "Hello, JavaScript!";
       ```
 
-33. **Integers:**
+70. **Integers**:
     - Definition: Data type representing whole numbers without fractional parts.
     - Example (JavaScript):
       ```javascript
       let count = 10;
       ```
 
-34. **Floats:**
+71. **Floats**:
     - Definition: Data type representing numbers with decimal points, allowing for fractional values.
     - Example (JavaScript):
       ```javascript
       let price = 19.99;
       ```
 
-35. **Booleans:**
+72. **Booleans**:
     - Definition: Data type representing either `true` or `false`, used for logical operations.
     - Example (JavaScript):
       ```javascript
       let isStudent = true;
       ```
 
-36. **Null:**
+73. **Null**:
     - Definition: A special value that represents the intentional absence of any object value.
     - Example (JavaScript):
       ```javascript
       let noValue = null;
       ```
 
-37. **Undefined:**
+74. **Undefined**:
     - Definition: A value automatically assigned to variables that are declared but not initialized.
     - Example (JavaScript):
       ```javascript
@@ -122,7 +122,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
       console.log(uninitializedVariable); // Output: undefined
       ```
 
-38. **Parameters:**
+75. **Parameters**:
     - Definition: Variables listed in a function's declaration and used to receive arguments.
     - Example (JavaScript):
       ```javascript
@@ -131,14 +131,14 @@ Whether creating algorithms, designing programs, or delving into the complexitie
       }
       ```
 
-39. **Arguments:**
+76. **Arguments**:
     - Definition: Values passed to a function when it is called, corresponding to the function's parameters.
     - Example (JavaScript):
       ```javascript
       greet("Alice"); // "Alice" is the argument passed to the greet function.
       ```
 
-40. **Return:**
+77. **Return**:
     - Definition: The value or result returned by a function after its execution.
     - Example (JavaScript):
       ```javascript
@@ -148,7 +148,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
       let result = add(3, 5); // The function returns 8, and it's stored in the variable "result."
       ```
 
-41. **Scope:**
+78. **Scope**:
     - Definition: The context in which variables are declared and accessible within the code.
     - Example (JavaScript):
       ```javascript
@@ -159,7 +159,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
       showNumber();
       ```
 
-42. **Recursion:**
+79. **Recursion**:
     - Definition: A programming technique where a function calls itself to solve a problem.
     - Example (JavaScript):
       ```javascript
@@ -169,7 +169,7 @@ Whether creating algorithms, designing programs, or delving into the complexitie
       }
       ```
 
-43. **Iteration:**
+80. **Iteration**:
     - Definition: The process of repeatedly executing a block of code using loops or recursion.
     - Example (JavaScript):
       ```javascript
@@ -177,4 +177,3 @@ Whether creating algorithms, designing programs, or delving into the complexitie
         console.log("Iteration " + i);
       }
       ```
-
