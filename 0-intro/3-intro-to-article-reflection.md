@@ -31,4 +31,4 @@ These reflective practices ensure that you don't just read an article—you lear
 
 Enjoy your deep dive into the world of coding articles! 🚀
 
-You can find the Article Reflection Template ➡️[Here](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/article-reflection-template.md)
+You can find the Article Reflection Template ➡️ [Here](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/article-reflection-template.md)
