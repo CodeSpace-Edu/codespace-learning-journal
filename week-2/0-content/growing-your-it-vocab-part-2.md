@@ -1,12 +1,12 @@
-# Programming Fundamentals 
+# Programming Fundamentals 🔠🏆
 
-🚀 As students embark on their journey into the world of coding and software development, understanding the essential programming fundamentals is crucial to build a solid foundation. This list comprises 21 key terms that every aspiring programmer should become familiar with when learning JavaScript. 📚
+🚀 As students embark on their journey into the world of coding and software development, understanding the essential programming fundamentals is crucial to build a solid foundation. This list has around 20 key terms that every aspiring programmer should become familiar with when learning how to code. 📚
 
 From the basics of data types, variables, and constants to the power of loops, conditionals, and functions, these concepts form the building blocks of programming. Additionally, students will encounter the significance of arrays, strings, and numeric data types, which are fundamental for handling and manipulating data. 💻
 
 Understanding the concept of scope and how functions work with parameters, arguments, and return values is vital to create reusable and efficient code. Furthermore, recursion and iteration, as highlighted in this list, demonstrate different approaches to solve problems and perform repetitive tasks. ♻️
 
-Whether creating algorithms, designing programs, or delving into the complexities of software development, grasping these programming fundamentals will empower students to write code that is both functional and efficient. So let's dive into this list and discover the key terminology that will pave the way to becoming proficient JavaScript developers. 🚀🌟
+Whether creating algorithms, designing programs, or delving into the complexities of software development, grasping these programming fundamentals will empower students to write code that is both functional and efficient. So let's dive into this list and discover the key terminology that will pave the way to becoming proficient developers. 🚀🌟
 
 23. **A Program:**
    - Definition: A set of instructions written in a programming language to perform a specific task or solve a problem.
