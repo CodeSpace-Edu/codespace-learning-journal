@@ -1,4 +1,6 @@
-Sure, here's the renumbered list starting from 1:
+# Essential Javascript Vocabulary 👨🏽‍💻🟨
+
+Here are 50 essential JavaScript terms that every developer should know.
 
 **1. Variables**: Named containers that store data values.
    - Example: Imagine a variable called "score" to keep track of a player's points in a game: 
