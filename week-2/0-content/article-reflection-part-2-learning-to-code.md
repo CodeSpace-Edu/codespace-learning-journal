@@ -1,6 +1,6 @@
-# 📚 Article Study Session 📚
+# 📚 Article Study Session 
 
-📑 Link to the Article: Paste the article link here.
+📑 Link to the Article: [Why Learning to Code is so Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/).
 
 ## 🖋️ Notable Quote:
 Copy and paste a key quote from the article that made an impact on you.
@@ -16,7 +16,7 @@ List down unfamiliar words or technical terms from the article that you've learn
 - Term 3
 - etc
 
-# ⏰ Article Reflection Session ⏰
+# ⏰ Article Reflection Session 
 
 Now, let's transform these reading sessions into learning sessions. Use these prompts to help you reflect on the article:
 
