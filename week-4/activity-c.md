@@ -4,7 +4,7 @@
 
 ### Instructions: 📃
 
-1. **Preparation:** Create a set of flashcards with Javascript terms. Write the term on one side of the card and its definition and a brief example of its usage on the other side. You can start with around 20-30 terms, including things like "Variable", "Array", "Function", "Object", etc.
+1. **Preparation:** Create a set of flashcards with Javascript terms. There's no need to get fancy, these can be written on simple scraps of paper. Write the term on one side of the card and its definition and a brief example of its usage on the other side. You can start with around 20-30 terms, including things like "Variable", "Array", "Function", "Object", etc.
 
 2. **Study Session:** Spend 10-15 minutes each day reviewing these flashcards. Shuffle the cards each time to vary the order. 
 

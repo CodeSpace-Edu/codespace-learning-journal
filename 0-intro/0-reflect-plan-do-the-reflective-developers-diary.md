@@ -14,10 +14,19 @@ These are the three pillars of your journey. Reflection on your experiences, pla
 
 This diary is built around a weekly reflection ritual, designed to give you a structured opportunity using templates to reflect on your learning journey and plan your next steps.
 
-### 🖊 Your Github Journal
+## 📃 Templates 📃
 
-Your Github Journal is your space to document your reflections and plans. It provides a visual record of your journey, making it easy to track your progress, identify patterns, and adjust your strategies as needed.
+- [Article Reflection Template]()
+- [Group Discussion Template]()
+- [Guest Speaker Template]()
+- [Weekly Reflection Template]()
+
+### 🖊 Your Codespace Github Learning Journal
+
+Your Codespace Github Learning Journal is your space to document your reflections and plans. It provides a visual record of your journey, making it easy to track your progress, identify patterns, and adjust your strategies as needed.
 
 By regularly writing in your Reflective Developer's Diary, you're not just passive observers on your learning journey. Instead, you're active participants, able to reflect, plan, and act with intention and awareness.
 
 Remember, the key to leveling up is not only learning but reflecting on that learning. This process may not always be easy, but it will always be worth it. So, let's get started! Happy coding! 🎉
+
+For some inspiration watch [THE POWER OF FULL ENGAGEMENT](https://www.youtube.com/watch?v=QRjqGWLLgUY)
