@@ -1,8 +1,8 @@
-# 🚀 The Codespace Learning Journal 🚀
+# 🚀 The CodeSpace Learning Journal 🚀
 
-Welcome to the Codespace Learning Journal, your personal debugging tool designed to help you optimize your learning journey and boost your personal growth in the world of software development.
+Welcome to the CodeSpace Learning Journal, your personal debugging tool designed to help you optimize your learning journey and boost your personal growth in the world of software development.
 
-In the realm of programming, just as with sports, top performers aren't shaped by accident—it's a process of constant review, reflection, and refinement. In this spirit, the Codespace Learning Journal serves as your very own 'Game Tape Review' — Coding Edition!
+In the realm of programming, just as with sports, top performers aren't shaped by accident—it's a process of constant review, reflection, and refinement. In this spirit, the CodeSpace Learning Journal serves as your very own 'Game Tape Review' — Coding Edition!
 
 Learning isn't a passive process; it's an active endeavor that thrives on engagement, consideration, and adaptation. This diary aims to aid in that process by encouraging reflection, promoting self-awareness, and providing a framework for documenting your learning journey.
 
