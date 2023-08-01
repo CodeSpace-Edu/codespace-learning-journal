@@ -16,10 +16,10 @@ This diary is built around a weekly reflection ritual, designed to give you a st
 
 ## 📃 Templates 📃
 
-- [Article Reflection Template]()
-- [Group Discussion Template]()
-- [Guest Speaker Template]()
-- [Weekly Reflection Template]()
+- [Article Reflection Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/article-reflection-template.md)
+- [Group Discussion Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/group-discussion-template.md)
+- [Guest Speaker Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/guest-speaker-template.md)
+- [Weekly Reflection Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/weekly-reflection-template.md)
 
 ### 🖊 Your Codespace Github Learning Journal
 

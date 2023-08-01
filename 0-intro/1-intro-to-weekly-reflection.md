@@ -18,6 +18,14 @@ The first part of the template focuses on your learning habits:
 
 Identify and celebrate the habits that have served you well. Acknowledging these 'power-ups' reinforces their value and encourages their continuation.
 
+This [video discusses various strategies for improving HOW you learn](https://www.youtube.com/watch?v=H-DJEU9N1y4). Watch the video to start thinking about your habits. While you are watching the video, take notes about the following questions: 
+
+- Which of these habits do you already do? 
+
+- Which of these habits would benefit you the most?
+
+- Which of these habits are not relevant to you?
+
 ### 🌱 What habits have helped me this week?
 
 List and describe your productive habits, explaining how each has contributed to your learning and success during the week.
