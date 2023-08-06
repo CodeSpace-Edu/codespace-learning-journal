@@ -19,10 +19,10 @@ Make reflection a weekly ritual. The CodeSpace Learning Journal provides templat
 ## 📃 Templates 📃
 
 You'll find different templates designed to suit various learning situations:
-- [Article Reflection Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/article-reflection-template.md): Reflect on articles or blog posts.
-- [Group Discussion Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/group-discussion-template.md): Capture insights from collaborative discussions.
-- [Guest Speaker Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/guest-speaker-template.md): Summarize insights from expert talks.
-- [Weekly Reflection Template](https://github.com/jesscancode/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/weekly-reflection-template.md): Reflect on your overall weekly learning experience.
+- [Article Reflection Template](https://github.com/CodeSpace-Edu/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/article-reflection-template.md): Reflect on articles or blog posts.
+- [Group Discussion Template](https://github.com/CodeSpace-Edu/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/group-discussion-template.md): Capture insights from collaborative discussions.
+- [Guest Speaker Template](https://github.com/CodeSpace-Edu/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/guest-speaker-template.md): Summarize insights from expert talks.
+- [Weekly Reflection Template](https://github.com/CodeSpace-Edu/codespace-learning-journal/blob/main/00-templates-%F0%9F%93%84/weekly-reflection-template.md): Reflect on your overall weekly learning experience.
 
 ### 🖊 Your Codespace Github Learning Journal
 
